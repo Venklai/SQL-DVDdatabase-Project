@@ -8,15 +8,25 @@ The DVD rental database used in this projecyt contains 15 tables which are .'act
 There are 15 tables in the DVD Rental database:
 
 actor – actors data including first name and last name
+
 film – film data such as title, release year, length, rating, etc.
+
 film_actor – relationships between films and actors
+
 category – film’s categories data
+
 film_category- relationships between films and categories
+
 store – contains the store data including manager staff and address
+
 inventory – inventory data
+
 rental – rental data
+
 payment – customer’s payments
+
 staff – staff data
+
 customer – customer data
 address – address data for staff and customers
 city – city names
