@@ -2,7 +2,7 @@
 The DVD rental database used in this projecyt contains 15 tables which are .'actor', 'address', 'category', ‘city',  'country', 'customer',  'film',  'film_actor', 'film_category',  'inventory', 'payment',  'rental', 'staff' and 'store'. The objective of this project is to explore and understand the data by applying SQL querying techniques.
 
 ### DVD Rental ER Model
-![image](https://github.com/Venklai/SQL-DVDdatabase-Project/assets/141069443/eeea6dba-b4a0-4b43-83e0-553258992b89)
+[![image](https://github.com/Venklai/SQL-DVDdatabase-Project/assets/141069443/eeea6dba-b4a0-4b43-83e0-553258992b89)](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
 
 
 ### Database Tables
